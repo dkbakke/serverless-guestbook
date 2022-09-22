@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://us-east.functions.appdomain.cloud/api/v1/web/FSClouddkb_myCloudSpace/guestbook/';
+const apiUrl = 'https://us-east.functions.appdomain.cloud/api/v1/web/FSClouddkb_myCloudSpace/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
